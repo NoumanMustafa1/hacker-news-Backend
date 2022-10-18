@@ -1,0 +1,12 @@
+creds/
+.config/
+
+*.json
+test.*
+
+
+venv/
+venv
+
+.env
+env
